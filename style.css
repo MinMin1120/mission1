@@ -3,7 +3,7 @@ body
 	background-color: hotpink;
 }
 h2
-{
+{   font-size: 20px;
 	color: red;
 	text-align: center;
 }
@@ -13,6 +13,7 @@ h2
 }
 .group1:hover{ 
 	zoom: 102%;
+	zoomamount: 10;
 	
 
 
@@ -34,4 +35,7 @@ h2
 .group4
 {
 	color: black;
+}
+button{ border: 0px;
+	border-radius: 5%;
 }
